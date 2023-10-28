@@ -1,0 +1,15 @@
+POST http://localhost:5204/product
+Content-Type : application/json
+
+{
+    "name": "fsdfsd",
+    "description": " fsdfsdfsdfdsffdsfdsfsdfsdfsdf",
+    "startDateTime": "2019-01-01T00:00:00.000Z",
+    "endDateTime": "2019-01-01T00:00:00.000Z",
+    "color": [
+        "rosa"
+    ],
+    "size": [
+        "small",
+        "medium"    ]
+}

@@ -1,0 +1,11 @@
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\bin\Debug\net7.0\LoremLingerie.Contracts.deps.json
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\bin\Debug\net7.0\LoremLingerie.Contracts.dll
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\bin\Debug\net7.0\LoremLingerie.Contracts.pdb
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.AssemblyInfoInputs.cache
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.AssemblyInfo.cs
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.csproj.CoreCompileInputs.cache
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.dll
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\refint\LoremLingerie.Contracts.dll
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\LoremLingerie.Contracts.pdb
+H:\Projects\Uni\LoremLingerie\LoremLingerie.Contracts\obj\Debug\net7.0\ref\LoremLingerie.Contracts.dll
